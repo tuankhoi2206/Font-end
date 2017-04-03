@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+
+  <style>
+
+    .tableView {
+      /*  webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;*/
+      border-left: 1px solid gainsboro;
+      border-top: 1px solid gainsboro;
+      max-height: 620px;
+      overflow: auto;
+    }
+
+    .rawTableView > div {
+      border-right: 1px solid gainsboro;
+      border-bottom: 1px solid gainsboro;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .rawTableView {
+      display: flex;
+    }
+
+    .rawTableView:hover {
+      background-color: rgba(10, 33, 85, 0.04);
+      cursor: pointer;
+    }
+
+    .rawTableView:first-child {
+      background-color: #fff;
+    }
+
+    .rawHeader div {
+      font-weight: bold;
+    }
+
+    .div-text {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    /* Col */
+    .rawTableView .col-1, .col-2 {
+      width: 8%;
+    }
+
+    .rawTableView .col-1, .col-2, .col-5 {
+      line-height: 44px;
+      text-align: center;
+    }
+
+    .rawTableView .group-col-3-4 {
+      flex-grow: 1;
+      display: flex;
+      width: 54%;
+    }
+
+    .group-col-3-4 div:first-child {
+      border-right: 1px solid gainsboro;
+    }
+
+    .col-3, .col-4 {
+      flex: 1;
+      line-height: 44px;
+      padding-left: 8px;
+    }
+
+    .rawTableView .col-5 {
+      width: 30%;
+    }
+
+    .col-5 label {
+      font-weight: normal;
+    }
+
+    @media screen and (max-width: 600px) {
+      .title-button {
+        display: none;
+      }
+
+      .rawTableView .col-1 {
+        width: 12%;
+      }
+
+      .rawTableView .group-col-3-4 {
+        width: 58%;
+      }
+    }
+
+    @media screen and (max-width: 480px) {
+
+      .rawHeader {
+        display: none;
+      }
+
+      .group-col-3-4 {
+        flex-direction: column;
+      }
+
+      .group-col-3-4 .col-3 {
+        font-weight: bold;
+      }
+
+      .group-col-3-4 div {
+        line-height: 22px;
+      }
+
+      .group-col-3-4:first-letter {
+        font-weight: bold;
+        background-color: gainsboro;
+      }
+
+      .flex-one label {
+        font-weight: bold;
+      }
+
+      .col-2 {
+        display: none;
+      }
+
+      .col-3 {
+        border-right: 0px !important;
+      }
+
+    }
+
+    @media screen and (max-width: 320px) {
+      .btn-delele {
+        display: none;
+      }
+
+      .rawTableView {
+        font-size: 13px;
+        transition: all 0.5s;
+      }
+
+      .rawTableView > div {
+        border-right: 0px;
+      }
+
+      .rawTableView > div:last-child {
+        border-right: 1px solid gainsboro;
+      }
+
+      .rawTableView .group-col-3-4 {
+        width: 63%;
+      }
+
+      .rawTableView .col-5 {
+        width: 25%;
+      }
+
+    }
+
+  </style>
+</head>
+<body>
+
+<!-- table -->
+<div id="tableView" class="tableView">
+  <div class="rawTableView rawHeader text-center">
+    <!-- tra tempUrl ve nhu nao -->
+    <div class="col-5" ng-repeat="column in vm.configData.titleColumns">
+      <div ng-include="vm.getTemplateUrl(column)"></div>
+    </div>
+  </div>
+
+  <div class="rawTableView"<!-- multipleSelect: true edittable: true deletable: true-->
+  ng-repeat='item in vm.configData.items | filter: vm.configData.searchText | orderBy: vm.sortType: vm.sortReverse'>
+  <!--format data-->
+  <span style="display: none"> {{vm.setElementFormat(vm.configFunction.formatData(item))}}</span>
+  <!--col 1 checkBox-->
+  <div class="col-5">
+    <!-- issue -->
+    <input type="checkbox" class="checkbox-inline" ng-model="item.isChecked"
+           ng-change="vm.stageChangeChkBox(item.id)">
+  </div>
+
+  <!--1. song-->
+  <div class="col-5" ng-repeat="column in vm.configData.titleColumns"
+       ng-if="column.mapdata !=='' ">
+    <span> {{item[column.mapdata]}}</span>
+    <!--<div ng-if="column.templateUrl !==''" ng-include="column.templateUrl"/>-->
+  </div>
+
+  <div class="col-5"></div>
+
+</div>
+<!-- end modal-->
+</div><!--end table-->
