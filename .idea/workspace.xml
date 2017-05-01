@@ -1,0 +1,1296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72ae3d65-d289-43cb-aca1-e1d71b840050" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/components/new-table-view/ovTableView.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/test/searchbar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/js/scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-mocks/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-cookies/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/gulp_tasks/inject.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/arrayMap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.assign/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/core/access.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/scripts/playlist/playlists.edit.decorator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createBaseEach.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/omit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-resource/angular-resource.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/scripts/common/common.service.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseEachRight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/utility/propertyOf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseSum.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._root/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/pluck.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/ajax/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-touch/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/components/new-table-view/ovTableView.controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createSortedIndex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/flatten.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/pairs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/chain/toString.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._createassigner/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createCache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createExtremum.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/css/hiddenVisibleSelectors.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/AUTHORS.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/all.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseIsMatch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/scripts/playlist/playlists.create.decorator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular/angular.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseCallback.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/sortedIndex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/deprecated.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/js/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/sortByOrder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.debounce/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/scripts/playlist/playlists.edit.infortab.decorator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/i18next-xhr-backend/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/select.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/function/once.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/media.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.pad/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/compareAscending.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseSortBy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/math/max.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/function/memoize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/lazyReverse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/ng-i18next/.vscode/settings.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/string/trimRight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-resource/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/dist/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/manipulation/_evalUrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/ajax/var/rquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/conf/browsersync.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/date/now.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/pickByCallback.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/isRegExp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/ng-i18next/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/songServer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-mocks/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/i18next-xhr-backend/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/zipObject.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/chain/valueOf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/components/table-view/ovTableView.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseFor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/var/toString.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.keys/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.restparam/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-sanitize/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseFilter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/valuesIn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app_new.rar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/reject.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.isarguments/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/manipulation/getAll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseProperty.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/selector-sizzle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/var/pnum.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/string/deburr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-touch/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createFindKey.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/i18next/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/arrayEachRight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/findLastIndex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/isNull.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/partition.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseDelay.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-mocks/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/.idea/TrainingUI.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/i18next/sample.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/includes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/test/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/callbacks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-route/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/components/new-table-view/dddd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/charsRightIndex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/basePropertyDeep.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/math/min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/external/sizzle/dist/sizzle.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseMap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/function/curry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._basetostring/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/traversing/var/siblings.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._reescape/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.isarray/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/images/flag/flag_usa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/getLength.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/conf/browsersync-dist.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/js/affix.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/test/spec/controllers/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/theme.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/ajax/var/nonce.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/traversing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/effects/Tween.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app31_3.rar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/utility/range.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-resource/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/isIndex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/core/ready-no-deferred.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.padstart/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/data/var/dataUser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/countBy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/i18next/i18next.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/bindCallback.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseFunctions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._getnative/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/isError.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseCreate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-mocks/ngMockE2E.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.pad/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._getnative/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseFill.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/wells.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/MapCache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._reevaluate/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/grid-framework.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/table-row.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/intersection.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/chain/wrapperPlant.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/components/dialog/ovDialog.directive.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/xor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._basecopy/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/i18next-xhr-backend/rollup.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/clone.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/function/restParam.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/responsive-utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/manipulation/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/isObject.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/print.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-sanitize/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.pad/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/string/templateSettings.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/var/fnToString.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/panels.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseSome.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/css/showHide.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/rest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/composeArgsRight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/metaMap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/exports/amd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/var/slice.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._isiterateecall/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/ng-i18next/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/indexOfNaN.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createForOwn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/invokePath.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/images/flag/flag-32.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._basecopy/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/utility/callback.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/extend.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/contains.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/i18next/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/getNative.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._baseassign/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._createassigner/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._baseassign/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/grunt/bs-raw-files-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/toArray.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/center-block.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/ng-i18next/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._root/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/external/sizzle/dist/sizzle.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/clearfix.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/isIterateeCall.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/progress-bar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/result.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._bindcallback/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/LazyWrapper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-mocks/ngMock.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-animate/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseForIn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/size.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/forms.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/string/capitalize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/include.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-mocks/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/function/bind.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.keys/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.escape/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/ng-i18next/tslint.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/mergeDefaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/core/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/head.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app_20_3_bk.rar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/arrayEach.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/string/template.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-resource/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/chain/tap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/function/partialRight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/toIterable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/equalArrays.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/js/collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-resource/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._basevalues/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/wrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/var/class2type.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/attributes/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/hide-text.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/without.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/utility/matchesProperty.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-sanitize/angular-sanitize.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/compareMultiple.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/event/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createReduce.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/getData.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/uniq.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-route/angular-route.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/drop.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.padend/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/images/flag/en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/string/trimLeft.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/indexBy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.now/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.isobject/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._reinterpolate/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/scaffolding.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/nav-vertical-align.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-touch/angular-touch.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/js/carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/dropRight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/utility/times.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/string/unescape.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.padstart/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/dist/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/realNames.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/manipulation/buildFragment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-animate/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/isArrayLike.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/scripts/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/manipulation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/labels.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/gulp_tasks/scripts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/escapeRegExpChar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/arrayCopy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/.yo-rc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/ng-i18next/.vscode/tasks.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/tail.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/arrayConcat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/dist/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/styles/sideBar.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/set.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/background-variant.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/js/alert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/getMatchData.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/chain/plant.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.padend/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/ng-i18next/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/composeArgs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/chain/wrapperConcat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/conf/gulp.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/mergeData.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._baseassign/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseMerge.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/dist/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/code.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/border-radius.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/ng-i18next/gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/eq.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/dropdowns.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/js/tab.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/findLast.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/function/debounce.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._getnative/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/initial.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.assign/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._reevaluate/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/any.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.isfunction/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.now/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/forEachRight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/string/words.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/css/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/ng-i18next/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.escape/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.now/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/gulp_tasks/karma.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/test/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.template/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-route/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/components/table-view/ovTableView.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/grid.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/bufferClone.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/utility/uniqueId.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/isArray.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-touch/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/every.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/sortBy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/images/yeoman.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-sanitize/angular-sanitize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/api.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createFindIndex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/js/dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/isPlainObject.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createCtorWrapper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseFindIndex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/forEach.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/function/flowRight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-animate/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-cookies/angular-cookies.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/string/startCase.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/take.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.isequal/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseMatchesProperty.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/utility/property.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/utility/mixin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/reorder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._isiterateecall/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/mapHas.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-mocks/ngAnimateMock.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseLodash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createBindWrapper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/isMatch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/function/ary.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/core/DOMEval.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/ajax/jsonp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/isFinite.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/lte.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/takeRight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-animate/angular-animate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app_30_03.7z" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/charsLeftIndex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseClone.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/scripts/song/template/action-column.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/sample.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/dist/jquery.slim.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/ng-i18next/dist/ng-i18next.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._basetostring/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/unzip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/foldr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/string/escape.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-touch/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/components/dialog/ovDialogDirective.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/manipulation/var/rcheckableType.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/nav-divider.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/i18next/karma.backward.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/components/breadcrumbs/ovBreadcrumbsDirective.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/css/var/isHiddenWithinTree.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/js/tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/arrayEvery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/function.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/binaryIndex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseAssign.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/has.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/chain/wrapperValue.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/forIn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/scripts/config-route.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.keys/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/functions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/arraySum.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/grunt/sauce_browsers.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/var/rnothtmlwhite.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/dist/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseMergeDeep.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/ng-i18next/typings.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/toPlainObject.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/i18next/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/reset-filter.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/scripts/playlist/playlistsEditInforTabTemplate.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/function/wrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/dist/jquery.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.restparam/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/scripts/song/songs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._getnative/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/function/modArgs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/var/rcssNum.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/i18next/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/assignWith.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/var/ObjectFunctionString.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/utility/noop.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/sortByAll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._reinterpolate/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseDifference.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/queue/delay.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-touch/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/opacity.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/string/kebabCase.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.isarguments/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/arrayExtremum.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/lazyValue.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.isfunction/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/function/defer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/nuget/MyGet.ps1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/function/throttle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-touch/angular-touch.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/components/table-view/ovTableView.controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/utility/identity.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createPartial.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/ng-i18next/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._reescape/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/chunk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/js/transition.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-cookies/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/chain/wrapperChain.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/.eslintrc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/cachePush.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.templatesettings/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/invert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/gte.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/event/trigger.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/input-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/components/new-table-view/ovTableView.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/function/after.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/grunt/bs-glyphicons-data-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/Gemfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/images/flag/flag_vietnam.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/date.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._objecttypes/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.isequal/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/function/compose.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/gulp_tasks/styles.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/ng-i18next/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._objecttypes/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/compact.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/styles/main.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/dist/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.padend/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/string/endsWith.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/attributes/attr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/unzipWith.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/string/padLeft.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-sanitize/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/string/camelCase.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/core/parseHTML.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/chain/concat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/js/modal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.padend/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/test/flexBox.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/css/curCSS.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/styles/sidenav.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/deferred.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/lastIndexOf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/utility/methodOf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/scripts/song/template/col1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/filter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._basecopy/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseEach.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/scripts/playlist/playlist.service.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/css/var/getStyles.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/conf/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/get.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/attributes/classes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/grid.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/gulp_tasks/build.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/toObject.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/i18next/rollup.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/at.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/chain/commit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/scripts/main-app/app.service.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/collect.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-cookies/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/dist/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/zipWith.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/grunt/npm-shrinkwrap.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/progress-bars.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-route/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/i18next-xhr-backend/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._basevalues/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/function/spread.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.padstart/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseToString.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._root/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-cookies/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/appbk.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseGet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/css.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._baseassign/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.debounce/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/modals.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/close.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/utility/iteratee.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/findIndex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/mm_mockup.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/conf/karma-auto.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/wrapperClone.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/dist/jquery.slim.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/grunt/change-version.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/js/button.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseAt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/css/var/rmargin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseIsFunction.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/scripts/app.module.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._bindcallback/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/test/songsbk.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/math/add.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/grunt/bs-commonjs-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/groupBy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/var/hasOwn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/isBoolean.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/reEscape.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createBaseFor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/navs.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/sum.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/test/gird-system.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._reinterpolate/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/trimmedRightIndex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseWhile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/replaceHolders.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.restparam/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createPartialWrapper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/chain/wrapperCommit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/components/table-view/defaultColTemplate.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/grunt/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-resource/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/takeWhile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/manipulation/var/rscriptType.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/test/display.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/scripts/playlist/playlists.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/initCloneByTag.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/max.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/ng-i18next/dist/ng-i18next.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseReduce.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/isArguments.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/image.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-mocks/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/create.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/dist/core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.isarray/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._isnative/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/scripts/song/song.service.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/dist/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/popovers.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseSlice.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/slice.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/i18next-xhr-backend/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseIsEqualDeep.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/traversing/var/rneedsContext.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/text-overflow.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/isNaN.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/ng-i18next/.vscode/launch.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/components/new-table-view/ovTableView.directive.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/scripts/playlist/editPlaylist.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/values.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/images/flag/vietnam.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/string.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/data/var/dataPriv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/findKey.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/data/Data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/scripts/playlist/playlistTemplate.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.isarray/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/glyphicons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._createassigner/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/shuffle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/js/popover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/css/var/cssExpand.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/string/repeat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-touch/angular-touch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/initCloneObject.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/styles/sideBar.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createObjectMapper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._isiterateecall/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createPadding.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/styles/searchBar.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/number/inRange.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/arrayPush.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/find.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/string/escapeRegExp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/event/ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/.idea/jsLinters/jshint.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-sanitize/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.escape/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/i18next-xhr-backend/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/gulp_tasks/browsersync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/gradients.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/function/delay.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseUniq.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.padstart/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/object.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/responsive-embed.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._reevaluate/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/.csslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/var/documentElement.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular/angular.min.js.gzip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/offset.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._isnative/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/unique.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/conf/karma-files.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.assign/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/math/round.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/utility/constant.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/vendor-prefixes.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-animate/angular-animate.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/i18next/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/function/curryRight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/event.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/string/pad.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/function/rearg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-touch/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseFind.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.template/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/ajax/load.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/flattenDeep.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/string/parseInt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createFind.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._basecopy/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/dropRightWhile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.isarguments/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/var/concat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-animate/angular-animate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/arraySome.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/math/sum.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/nuget/bootstrap.nuspec" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/reset-text.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/reduceRight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/manipulation/var/rtagName.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/utility/method.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/components/table-view/ovTableViewDirective.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular/angular-csp.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/math/floor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.template/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.pad/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/test/spec/controllers/about.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/isNumber.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.isfunction/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-route/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._objecttypes/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/isStrictComparable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/dist/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/i18next-xhr-backend/.coveralls.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/thumbnails.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/isString.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseCompareAscending.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-cookies/angular-cookies.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/escapeHtmlChar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-route/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/dist/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.keys/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/isUndefined.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/pickByArray.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/i18next/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/arrayReduce.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/exports/global.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/mapSet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createRound.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-animate/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/package.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/equalByTag.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/gulp_tasks/misc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/normalize.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._basetostring/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/button-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/trimmedLeftIndex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.isarray/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createCompounder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/cloneDeep.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.isarguments/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createCurry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseSortByOrder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseForOwn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/ajax/xhr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app.7z" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/toPath.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/images/flag/flag.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/lazyClone.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/ng-i18next/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/badges.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/test/playlistsbk.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-cookies/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._bindcallback/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-cookies/angular-cookies.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/chain/chain.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/components/dialog/ovDialog.controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/reduce.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-route/angular-route.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/styles/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/function/flow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/forOwn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/string/startsWith.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/list-group.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/findLastKey.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/scripts/song/song.controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/css/addGetHookIf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/string/snakeCase.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/merge.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseSetData.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.templatesettings/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/attributes/prop.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._reinterpolate/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.isobject/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/string/trunc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.isequal/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/.csscomb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/components/new-table-view/action-column.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/tables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.debounce/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._isnative/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/dist/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/isLaziable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/isEqual.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseForOwnRight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.debounce/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/scripts/playlist/playlists.controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/mapKeys.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/queue.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/utility/matches.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/isEmpty.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/math.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/text-emphasis.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/i18next/i18next.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/effects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseCopy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/core/init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/chain/reverse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/dist/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/components/table-view/ovTableView.directive.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/scripts/playlist/playlists.view.decorator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-sanitize/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/test/hs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/MusicManagerAngularJS.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createForEach.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/i18next-xhr-backend/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/escapeStringChar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/getView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/ajax/parseXML.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._reescape/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/remove.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/chain/value.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/components/table-view/default-config/col1Template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/detect.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/chain/wrapperToString.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/ng-i18next/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/var/indexOf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/mapValues.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/chain/run.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/ISSUE_TEMPLATE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/external/sizzle/dist/sizzle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/images/flag/vietnam-32.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/manipulation/wrapMap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/deburrLetter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/gt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/mapGet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-resource/angular-resource.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/dropWhile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/ng-i18next/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/traversing/findFilter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/setData.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/arrayFilter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/pager.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-route/angular-route.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._objecttypes/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/forInRight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/locales/vi/translation.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/function/bindKey.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._basevalues/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/ng-i18next/tsconfig.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/chain/wrapperReverse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._createassigner/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/serialize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/attributes/val.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.isfunction/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/i18next/.coveralls.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/component-animations.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/LodashWrapper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/defaultsDeep.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._reescape/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/.jscsrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-mocks/angular-mocks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/transform.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/size.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/forOwnRight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/components/breadcrumbs/ovBreadcrumbs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/keys.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._isiterateecall/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.templatesettings/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/difference.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/navbar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createDefaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/selector-native.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/i18next/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/pull.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/tooltip.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.isequal/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/isDate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/test/selector.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-animate/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseForRight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/grunt/configBridge.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createWrapper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/labels.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._basevalues/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._basetostring/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/binaryIndexBy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.template/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/utility.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/jumbotron.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseWrapperValue.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-sanitize/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/scripts/song/songTemplate.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/data/var/acceptData.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/shimKeys.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/dimensions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/SetCache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/foldl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/components/breadcrumbs/ovBreadcrumbs.directive.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/fill.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/core/var/rsingleTag.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/.idea/watcherTasks.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._reevaluate/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/isNative.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/core/ready.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/test/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/string/trim.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/sortedLastIndex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/isElement.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/each.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/type.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/traversing/var/dir.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._root/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/lt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/css/adjustCSS.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/locales/en/translation.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/assignDefaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-route/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseValues.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/i18next-xhr-backend/i18nextXHRBackend.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/where.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/ng-i18next/rollup.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.assign/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/unescapeHtmlChar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/scripts/playlist/addPlaylist.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/function/bindAll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/list-group.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseRandom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/first.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/styles/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/var/document.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/event/focusin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/resize.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/assignOwnDefaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/grunt/bs-lessdoc-parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/isLength.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular/angular.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/gulp_tasks/partials.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/var/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._bindcallback/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/event/alias.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/scripts/common/common.constant.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/chain/lodash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/math/ceil.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/forms.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/some.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular/angular.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/var/arr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.escape/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-sanitize/angular-sanitize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/manipulation/setGlobalEval.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/initCloneArray.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-resource/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/webServer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/number/random.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/panels.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/dist/jquery.slim.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseIsEqual.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/dist/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/i18next-xhr-backend/i18nextXHRBackend.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.isobject/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createPadDir.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/eachRight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.templatesettings/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/function/backflow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/union.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/core/stripAndCollapse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/basePullAt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/ajax/var/location.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/string/padRight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/getFuncName.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createAssigner.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/responsive-visibility.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/sortedUniq.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/isSpace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/external/sizzle/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createAggregator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/ng-i18next/.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/Gemfile.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/components/new-table-view/ovTableViewDirectiveTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseExtremum.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/utility/attempt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/keysIn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/bootstrap.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/reInterpolate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/styles/searchBar.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/inject.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/isTypedArray.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/number.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/equalObjects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/scripts/song/addOrEditSongTemplate.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createFlow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/function/partial.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.restparam/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseIndexOf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/components/table-view/ovTableViewDirectiveTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/methods.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/breadcrumbs.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/arrayReduceRight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/isObjectLike.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/last.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseMatches.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/cacheIndexOf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-animate/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/chain/thru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/effects/animatedSelector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/i18next-xhr-backend/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createForIn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/isKey.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseFlatten.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/pullAt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/components/breadcrumbs/ovBreadcrumbs.controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/mapDelete.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/takeRightWhile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/core/readyException.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/css/var/swap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/invoke.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-cookies/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/selector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/nuget/bootstrap.less.nuspec" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/collection/findWhere.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/assign.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/function/negate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/function/before.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/css/var/rnumnonpx.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/chain/toJSON.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/carousel.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash._isnative/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/scripts/playlist/playlists.edit.songtab.decorator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/js/.jscsrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/deferred/exceptionHook.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/baseEvery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.isobject/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/lang/isFunction.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/var/push.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/createHybridWrapper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/bootstrap/less/mixins/tab-focus.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/internal/reEvaluate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash.now/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/indexOf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app22_3.7z" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/chain.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular-resource/angular-resource.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/array/zip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/jquery/src/var/getProto.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/angular/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TrainingUI/app/bower_components/lodash/object/pick.js" afterPath="" />
+    </list>
+    <ignored path="LayoutDesign.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="LayoutDesign" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Production" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LayoutDesign" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files (x86)\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/PhoneCatApp" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72ae3d65-d289-43cb-aca1-e1d71b840050" name="Default" comment="" />
+      <created>1491311178923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1491311178923</updated>
+      <workItem from="1491311192099" duration="787000" />
+      <workItem from="1492193633852" duration="100000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="887000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2489019" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
