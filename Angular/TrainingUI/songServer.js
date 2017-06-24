@@ -74,7 +74,7 @@
   var express = req('express');
   var bodyParser = req('body-parser');
   var app = express();
-  var PORT = 3000,
+  var PORT = 4000,
     songApi = '/api/song',
     listApi = '/api/playlist',
     songPlaylistApi = '/api/songplaylist';

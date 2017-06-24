@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="test-app" >
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+	<title>Angular-bs-edit :: Angular directives for inline editing</title>
+
+	<!-- CSS -->
+	<link href="../bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+	<link href="../bower_components/bootstrap-datepicker/dist/css/bootstrap-datepicker3.min.css" rel="stylesheet">
+
+	<!-- Angular-bs-edit CSS -->
+	<link href="../dist/css/angular-bs-edit.css" rel="stylesheet">
+
+	<!-- Custom styles for this template -->
+	<link href="css/main.css" rel="stylesheet">
+</head>
+
+<body>
+
+<!-- Fixed navbar -->
+<nav class="navbar navbar-default navbar-fixed-top">
+	<div class="container">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="#">
+				<!--<img src="http://www.angularjstutorials.net/img/angular-js-logo.png">-->
+				<img src="https://angularjs.org/favicon.ico" width="40">
+				angular-bs-edit
+			</a>
+		</div>
+		<div id="navbar" class="navbar-collapse collapse">
+			<ul class="nav navbar-nav navbar-right">
+				<li class="active"><a href="#">Home</a></li>
+				<li><a href="https://github.com/flexjoy/angular-bs-edit">GitHub</a></li>
+			</ul>
+		</div><!--/.nav-collapse -->
+	</div>
+</nav>
+
+<div class="container" ng-controller="Ctrl">
+	<div class="row">
+		<div class="col-sm-8">
+			<h4>Demo Form</h4>
+			<form class="form-horizontal frame" name="testForm">
+				<div class="form-group" ng-class="{'has-error' : testForm.text.$invalid}">
+					<label class="col-sm-3 control-label">Text</label>
+					<div class="col-sm-9">
+						<div bse-text="data.text" name="text"></div>
+					</div>
+				</div>
+				<div class="form-group" ng-class="{'has-error' : testForm.select.$invalid}">
+					<label class="col-sm-3 control-label">Select</label>
+					<div class="col-sm-9">
+						<div bse-select="data.select" onshow="getList()" name="select"></div>
+					</div>
+				</div>
+				<div class="form-group" ng-class="{'has-error' : testForm.textarea.$invalid}">
+					<label class="col-sm-3 control-label">Textarea</label>
+					<div class="col-sm-9">
+						<div bse-textarea="data.textarea" name="textarea"></div>
+					</div>
+				</div>
+				<div class="form-group" ng-class="{'has-error' : testForm.date.$invalid}">
+					<label class="col-sm-3 control-label">Date</label>
+					<div class="col-sm-9">
+						<div bse-date="data.date" locale="locale" name="date"></div>
+					</div>
+				</div>
+				<div class="form-group" ng-class="{'has-error' : testForm.checkbox.$invalid}">
+					<label class="col-sm-3 control-label">Checkbox</label>
+					<div class="col-sm-9">
+						<div bse-checkbox="data.checkbox" name="checkbox"></div>
+					</div>
+				</div>
+			</form>
+			<br>
+			<h4>Model</h4>
+			<pre class="model text-danger">{{data | json}}</pre>
+		</div>
+		<div class="col-sm-4">
+			<h4>&nbsp;</h4>
+			<div class="btn-group btn-group-justified" role="group">
+				<a href="" class="btn btn-default" ng-click="clear()">Clear all fields</a>
+				<a href="" class="btn btn-default " ng-click="fill()">Fill all fields</a>
+			</div>
+			<br>
+			<div class="btn-group btn-group-justified" role="group">
+				<a href="" class="btn btn-default" ng-click="invalid()">Set fields invalid</a>
+				<a href="" class="btn btn-default" ng-click="valid()">Set fields valid</a>
+			</div>
+			<br>
+			<br>
+			<label class="control-label">Date Language</label>
+			<select class="form-control" ng-model="locale">
+				<option value="">English</option>
+				<option value="ru">Russian</option>
+				<option value="ja">Japanese</option>
+				<option value="es">Spanish</option>
+			</select>
+		</div>
+	</div>
+</div>
+
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="../bower_components/jquery/dist/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+<script src="../bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="../bower_components/angular/angular.min.js"></script>
+<script src="../bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js"></script>
+<script src="../bower_components/bootstrap-datepicker/dist/locales/bootstrap-datepicker.ru.min.js" charset="UTF-8"></script>
+<script src="../bower_components/bootstrap-datepicker/dist/locales/bootstrap-datepicker.ja.min.js" charset="UTF-8"></script>
+<script src="../bower_components/bootstrap-datepicker/dist/locales/bootstrap-datepicker.es.min.js" charset="UTF-8"></script>
+
+<!-- Angular-bs-edit script -->
+<script src="../dist/js/angular-bs-edit.js"></script>
+
+<!-- Test page script -->
+<script src="js/script.js"></script>
+</body>
+</html>
+
