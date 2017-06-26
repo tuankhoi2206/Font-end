@@ -29,6 +29,9 @@ div.hRight {
   display: block;
   overflow: auto;
 }
+#main-container {
+  height: 100%;
+}
 .container-fluid {
   position: relative;
 }

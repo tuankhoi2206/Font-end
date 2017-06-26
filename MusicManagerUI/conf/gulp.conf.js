@@ -54,7 +54,7 @@ exports.errorHandler = function (title) {
 };
 /**
  *  Wiredep is the lib which inject bower dependencies in your project
- *  Mainly used to inject script tags in the index.html but also used
+ *  Mainly used to inject script tags in the index-old.html but also used
  *  to inject css preprocessor deps and js files in karma
  */
 exports.wiredep = {

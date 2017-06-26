@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+
   <link rel="stylesheet" href="bower_components/components-font-awesome/css/font-awesome.min.css">
   <link rel="stylesheet" href="styles/searchBar.css">
   <link rel="stylesheet" href="styles/sidenav.css">
@@ -31,16 +32,43 @@
 
 </head>
 <body>
-
 <!-- Main Div -->
+<nav class="navbar navbar-default" role="navigation">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapse">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+  </div>
+  <div class="collapse navbar-collapse" id="collapse">
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="#">Home</a></li>
+      <li><a href="#">For Beginners</a></li>
+      <li><a href="#">Tutorials</a></li>
+      <li><a href="#">Themes</a></li>
+      <li><a href="#">Plugins</a></li>
+    </ul>
+  </div>
+</nav>
 <div id="main-container" class="main-container container-fluid container"
      ng-controller="AppCtrl as vm">
-
-  <!-- header -->
-  <div id="header" class="header row">
+  <header id="header" class="header row">
     <div id="header-wrap">
+
       <!-- Sidebar -->
-      <span class="menubtn" onclick="openNav()">&#9776;</span>
+      <!--<span class="menubtn" onclick="openNav()">&#9776;</span>-->
+      <nav class="navbar navbar-default" role="navigation">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+      </nav>
       <span id="music-icon" ng-click="vm.changeRoute('songs')" class="glyphicon glyphicon-headphones"></span>
       <a ng-click="vm.changeRoute('songs')">
         {{'app.title'| i18next}}
@@ -56,8 +84,7 @@
         <span ng-class="{blackcolor: !vm.isEnLanguge()}">vi</span>
       </a>
     </div>
-
-  </div><!--end #header-->
+  </header>
 
   <div id="main-content" class="main-content row content">
     <div id="mySidenav" class="sidenavrp">
@@ -77,20 +104,21 @@
               ng-class="{'active-menu':vm.isPlaylistMenu()}">{{'app.common.playlists'| i18next}}
       </button>
     </div>
-
     <!-- Center -->
     <div id="center-container" class="col-sm-9 text-left" style="padding: 0px; border-left: 1px #ccc solid">
       <!-- Manager Song -->
       <div ng-view=""></div>
     </div>
   </div>
-
-  <!-- footer -->
-  <div id="footer" class="row">
-    <p>Copyright 2017,TMA Solutions</p>
-  </div><!--end #footer-->
-
 </div><!-- end Main Div-->
+<!-- footer -->
+<footer>
+  <div class="container container-fluid">
+  <div class="row">
+    <p>Copyright 2017,TMA Solutions</p>
+  </div>
+  </div>
+</footer>
 
 <script>
 
@@ -103,7 +131,8 @@
   }
 
 </script>
-
+<script type="text/javascript" src="bower_components/jquery/dist/jquery.js"></script>
+<script type="text/javascript" src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
 <script src="scripts/app.module.js"></script>
 <script src="scripts/config-route.js"></script>
 <script src="scripts/app.js"></script>

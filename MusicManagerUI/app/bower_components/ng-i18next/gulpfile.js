@@ -141,7 +141,7 @@ gulp.task('serve', [], function () {
 	gulp.src('./')
 		.pipe(webserver({
 			livereload: true,
-			fallback: './examples/index.html'
+			fallback: './examples/index-old.html'
 		}));
 
 });
