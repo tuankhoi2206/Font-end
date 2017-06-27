@@ -11,6 +11,7 @@
   <link rel="stylesheet" href="styles/sidenav.css">
   <link rel="stylesheet" href="styles/styles.css">
   <link rel="stylesheet" href="styles/main.css">
+  <link rel="stylesheet" href="styles/font-css.css">
   <link rel="stylesheet" href="components/breadcrumbs/ovBreadcrumbs.css">
   <link rel="stylesheet" href="components/table-view/ovTableViewTest.css">
 
@@ -100,6 +101,19 @@
 
   function closeNav() {
     document.getElementById("mySidenav").style.display = "none";
+  }
+
+  /* Search Bar */
+  function displaySearchBar() {
+
+    var searchBar = document.getElementsByClassName("search-bar")[0];
+    searchBar.style.display = "inline-flex";
+    document.getElementById("cs-group-button").style.display = "none";
+  }
+
+  function closeSearchBar() {
+    document.getElementById("cs-group-button").style.display = "inline";
+    document.getElementsByClassName("search-bar")[0].style.display = "none";
   }
 
 </script>

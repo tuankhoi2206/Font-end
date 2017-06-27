@@ -1,7 +1,13 @@
+@font-face {
+  font-family: Roboto;
+  src: url("http://fonts.googleapis.com/css?family=Roboto:400,300,400italic,500,700,100");
+}
 th {
   text-align: center;
 }
 * {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -13,7 +19,9 @@ body {
   padding: 0px;
 }
 body {
-  overflow: hidden;
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+  font-weight: 400;
 }
 #main-container {
   height: calc(100% - 80px);
@@ -28,6 +36,9 @@ body {
 /**
  *=================>HEADER<=================
  **/
+/*-------------------------------*/
+/*           VARIABLES           */
+/*-------------------------------*/
 #header a {
   text-decoration: none;
 }
@@ -41,6 +52,10 @@ body {
   float: left;
 }
 #header-wrap a {
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  -ms-transition: all 0.5s;
   transition: all 0.5s;
 }
 /**** header ****/
@@ -55,6 +70,13 @@ body {
 #header-wrap .menubtn {
   display: none;
   cursor: pointer;
+  float: none;
+  border: 1px solid #ddd;
+  margin: 0px;
+  padding: 7px;
+}
+#header-wrap .menubtn .icon-bar {
+  background-color: #fff;
 }
 #header .flag {
   float: right;
@@ -114,6 +136,10 @@ div.hRight {
   text-align: right;
 }
 .my-animate {
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  -ms-transition: all 0.5s;
   transition: all 0.5s;
 }
 /* search bar*/
@@ -184,6 +210,7 @@ div.hRight {
 .div-text {
   white-space: nowrap;
   overflow: hidden;
+  -o-text-overflow: ellipsis;
   text-overflow: ellipsis;
 }
 /* Dành cho máy tính bảng chiều ngang */
@@ -225,6 +252,10 @@ div.hRight {
   #header-wrap {
     height: 50px;
     line-height: 50px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    -ms-transition: all 0.5s;
     transition: all 0.5s;
   }
   .sidenav {

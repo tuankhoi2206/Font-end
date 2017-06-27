@@ -1,3 +1,9 @@
+@import "../bower_components/nib"
+
+@font-face
+  font-family Roboto
+  src url('http://fonts.googleapis.com/css?family=Roboto:400,300,400italic,500,700,100')
+
 th
   text-align: center
 *
@@ -11,7 +17,10 @@ html, body
   padding 0px
 
 body
-  overflow hidden
+  font-family 'Roboto', sans-serif
+  position relative
+  font-weight:400
+
 
 #main-container
   height calc(100% - 80px)
@@ -23,7 +32,9 @@ body
 /**
  *=================>HEADER<=================
  **/
-
+/*-------------------------------*/
+/*           VARIABLES           */
+/*-------------------------------*/
 #header a
   text-decoration none
 
@@ -50,7 +61,12 @@ body
 #header-wrap .menubtn
   display: none
   cursor: pointer
-
+  float none
+  border 1px solid #ddd
+  margin 0px
+  padding 7px
+  .icon-bar
+    background-color white
 #header .flag
   float right
   padding-right 1%

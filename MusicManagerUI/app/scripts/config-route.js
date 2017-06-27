@@ -83,6 +83,7 @@
                 return $ocLazyLoad.load({
                   // load multiple file for template
                   files: [
+                    'scripts/song/song.service.js',
                     'scripts/playlist/playlist.service.js',
                     'scripts/playlist/playlists.controller.js',
                     'scripts/playlist/playlists.view.decorator.js',
