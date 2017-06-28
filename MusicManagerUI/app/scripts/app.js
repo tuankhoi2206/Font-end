@@ -9,11 +9,13 @@
 
         function init() {
 
+          vm.isShowSideBar = false;
           vm.changeLang = changeLang;
           vm.isSongMenu = isSongMenu;
           vm.isEnLanguge = isEnLanguge;
           vm.isPlaylistMenu = isPlaylistMenu;
           vm.changeRoute = changeRoute;
+          vm.changeShowSideBar = changeShowSideBar;
           setCurrentMenu($location.path());
 
 
@@ -45,6 +47,10 @@
 
         function changeLang(lang) {
           i18next.changeLanguage(lang);
+        }
+
+        function changeShowSideBar() {
+          vm.isShowSideBar = !vm.isShowSideBar;
         }
 
         function isSongMenu() {

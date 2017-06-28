@@ -3,13 +3,11 @@
 }
 
 .sidenavrp {
-    display: none;
     height: calc(100% - 80px);
     width: 200px;
     position: absolute;
     z-index: 1;
     background-color: gainsboro;
-    overflow-x: hidden;
     padding-top: 60px;
 }
 
@@ -32,9 +30,4 @@
     right: 25px;
     font-size: 36px;
     margin-left: 50px;
-}
-
-
-.sidenavrp {
-  display: none;
 }

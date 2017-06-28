@@ -20,6 +20,7 @@ body
   font-family 'Roboto', sans-serif
   position relative
   font-weight:400
+  overflow hidden
 
 
 #main-container
@@ -28,7 +29,6 @@ body
     height 100%
     #center-container
       height 100%
-      overflow scroll
 /**
  *=================>HEADER<=================
  **/
@@ -78,15 +78,19 @@ body
 /**
  *=================>FOOTER<=================
  **/
-footer > div
+#footer > div
   background-color #1A91B1//#3498db
   height 80px
 
-footer
+#footer
   position fixed
   bottom 0
   left 0
   right 0
+  .company-info p
+    line-height 80px
+    text-align center
+    color #f5f5f5
 
 .table > tbody > tr > td
   vertical-align: middle
@@ -147,13 +151,6 @@ div.hRight
 .main-content
   padding: 0px
 
-#main-content
-  border-right: 1px solid #dcdcdc
-  border-left: 1px solid #dcdcdc
-  position: relative
-
-
-
 .col-text-align
   text-align: center
 
@@ -182,9 +179,6 @@ div.hRight
 #information-panel
   border-top-left-radius: 0
   border-top-right-radius: 0
-
-#center-container > div
-  margin-bottom 20px
 
 .panel-body ul li div
   display: inline

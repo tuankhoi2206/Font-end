@@ -38,14 +38,14 @@
   <header id="header" class="header row">
     <div id="header-wrap">
       <!-- Sidebar -->
-      <button type="button" onclick="openNav()" class="menubtn navbar-toggle collapsed"
-              data-toggle="collapse" data-target="#collapse">
+      <button type="button" class="menubtn navbar-toggle collapsed"
+              ng-click="vm.isShowSideBar=!vm.isShowSideBar">
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <!--<span class="menubtn" onclick="openNav()">&#9776;</span>-->
+
       <span id="music-icon" ng-click="vm.changeRoute('songs')" class="glyphicon glyphicon-headphones"></span>
       <a ng-click="vm.changeRoute('songs')">
         {{'app.title'| i18next}}
@@ -64,9 +64,9 @@
   </header>
 
   <div id="main-content" class="main-content row content">
-
-    <div id="mySidenav" class="sidenavrp" id="collapse">
-      <a class="closebtn " onclick="closeNav()">&times;</a>
+    <!-- SideBar -->
+    <div id="mySidenav" class="sidenavrp"
+         ng-show="vm.isShowSideBar">
       <a ng-click="vm.changeRoute('songs')"
          ng-class="{'active-menu':vm.isSongMenu()}">{{'app.common.song'| i18next}}</a>
       <a ng-click="vm.changeRoute('playlists')"
@@ -83,18 +83,20 @@
       </button>
     </div>
     <!-- Center -->
-    <div id="center-container" class="col-sm-9 text-left" style="padding: 0px; border-left: 1px #ccc solid">
+    <div id="center-container" class="col-sm-9 text-left" style="padding: 0px;">
       <!-- Manager Song -->
       <div ng-view=""></div>
     </div>
   </div>
 </div><!-- end Main Div-->
 <!-- footer -->
-<footer>
+<footer id="footer">
   <div class="container container-fluid">
     <div class="row">
       <div class="col-sm-12">
-        <p>Copyright 2017,TMA Solutions</p>
+        <div class="company-info">
+          <p>Copyright 2017,TMA Solutions</p>
+        </div>
       </div>
     </div>
   </div>
@@ -102,14 +104,18 @@
 
 <script>
 
-  function openNav() {
-    document.getElementById("mySidenav").style.display = "block";
+  /* Search Bar */
+  function displaySearchBar() {
+
+    var searchBar = document.getElementsByClassName("search-bar")[0];
+    searchBar.style.display = "inline-flex";
+    document.getElementById("cs-group-button").style.display = "none";
   }
 
-  function closeNav() {
-    document.getElementById("mySidenav").style.display = "none";
+  function closeSearchBar() {
+    document.getElementById("cs-group-button").style.display = "inline";
+    document.getElementsByClassName("search-bar")[0].style.display = "none";
   }
-
 </script>
 <script type="text/javascript" src="bower_components/jquery/dist/jquery.js"></script>
 <script type="text/javascript" src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
@@ -128,6 +134,8 @@
 <script src="components/breadcrumbs/ovBreadcrumbs.controller.js"></script>
 <script src="components/breadcrumbs/ovBreadcrumbs.directive.js"></script>
 
+<!-- clickOutsideElement -->
+<script src="components/click-outside-element/clickOutsideElement.attribute.js"></script>
 <script src="components/table-view/ovTableView.controller.js"></script>
 <script src="components/table-view/ovTableView.directive.js"></script>
 
