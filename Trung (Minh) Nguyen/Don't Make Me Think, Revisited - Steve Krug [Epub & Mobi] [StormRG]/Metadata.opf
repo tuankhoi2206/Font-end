@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1835</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d2d822b-30af-404c-8357-17587e51d188</dc:identifier>
+        <dc:title>Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability</dc:title>
+        <dc:creator opf:file-as="Krug, Steve" opf:role="aut">Steve Krug</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.42) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-02T14:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;b&gt;Uploaded by [StormRG]&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Since&lt;em&gt; Don’t Make Me Think &lt;/em&gt;was first published in 2000, hundreds of thousands of Web designers and developers have relied on usability guru Steve Krug’s guide to help them understand the principles of intuitive navigation and information design. Witty, commonsensical, and eminently practical, it’s one of the best-loved and most recommended books on the subject.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Now Steve returns with fresh perspective to reexamine the principles that made&lt;em&gt; Don’t Make Me Think&lt;/em&gt; a classic–with updated examples and a new chapter on mobile usability. And it’s still short, profusely illustrated…and best of all–fun to read.&lt;br&gt;&lt;/p&gt;&lt;p&gt;If you’ve read it before, you’ll rediscover what made &lt;em&gt;Don’t Make Me Think&lt;/em&gt; so essential to Web designers and developers around the world. If you’ve never read it, you’ll see why so many people have said it should be required reading for anyone working on Web sites.&lt;br&gt;&lt;/p&gt;&lt;p&gt;“After reading it over a couple of hours and putting its ideas to work for the past five years, I can say it has done more to improve my abilities as a Web designer than any other book.”&lt;br&gt;–Jeffrey Zeldman, author of Designing with Web Standards &lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Steve Krug (pronounced "kroog") is best known as the author of&lt;em&gt; Don't Make Me Think: A Common Sense Approach to Web Usability&lt;/em&gt;, now in its second edition with over 350,000 copies in print. Ten years later, he finally gathered enough energy to write another one: the usability testing handbook &lt;em&gt;Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems&lt;/em&gt;. The books were based on the 20+ years he's spent as a usability consultant for a wide variety of clients like Apple, Bloomberg.com, Lexus.com, NPR, the International Monetary Fund, and many others.&lt;br&gt;&lt;/p&gt;&lt;p&gt;His consulting firm, Advanced Common Sense ("just me and a few well-placed mirrors") is based in Chestnut Hill, MA. Steve currently spends most of his time teaching usability workshops, consulting, and watching old episodes of Law and Order. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>New Riders</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780321965516</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0321965515</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00HJUBRPG</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computer Science</dc:subject>
+        <dc:subject>Computers &amp; Technology</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Graphics &amp; Multimedia</dc:subject>
+        <dc:subject>Web Design</dc:subject>
+        <dc:subject>Web Development &amp; Design</dc:subject>
+        <dc:subject>Internet &amp; Web Culture</dc:subject>
+        <dc:subject>User Experience &amp; Usability</dc:subject>
+        <meta content="{&quot;Steve Krug&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8.0" name="calibre:rating"/>
+        <meta content="2014-03-20T11:57:32+00:00" name="calibre:timestamp"/>
+        <meta content="Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve Krug.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
