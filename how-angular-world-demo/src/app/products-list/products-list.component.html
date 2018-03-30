@@ -1,0 +1,7 @@
+<div class="ui items">
+  <products-row *ngFor="let myProduct of productList"
+                [product]="myProduct"
+                (click)='clicked(myProduct)'
+                [class.selected]="isSelected(myProduct)">
+  </products-row>
+</div>

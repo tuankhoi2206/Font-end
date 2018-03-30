@@ -1,0 +1,26 @@
+.selected {
+  background-color: #cfd8dc !important;
+  color: #fff;
+}
+.heroes {
+  list-style-type: none;
+  padding: 0px;
+  cursor: pointer;
+}
+.heroes .hero {
+  background-color: #cfd8dc;
+  border-radius: 4px;
+  width: 200px;
+  margin-bottom: 5px;
+  padding: 5px 5px 5px 0px;
+}
+.heroes .hero .badge {
+  color: #fff;
+  padding: 5px;
+  background-color: #369;
+  border-radius: 4px 0px 0px 4px;
+}
+.heroes .hero:hover {
+  background-color: #888;
+  color: #fff;
+}

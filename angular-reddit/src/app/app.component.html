@@ -1,0 +1,25 @@
+<div class="ui wide column">
+  <form class="ui large form segment">
+    <h3 class="ui header">Add a Link</h3>
+    <div class="field">
+      <label for="title">Title:</label>
+      <input name="title" #newtitle>
+    </div>
+    <div class="field">
+      <label for="link">Link:</label>
+      <input name="link" #newlink>
+    </div>
+    <!-- add this button -->
+    <div class="field">
+      <button (click)="addArticle(newtitle, newlink)" class="ui positive right button">
+        Submut link
+      </button>
+    </div>
+  </form>
+
+  <div class="ui grid posts">
+    <app-article
+      *ngFor="let article of articles" [article]="article">
+    </app-article>
+  </div>
+</div>
