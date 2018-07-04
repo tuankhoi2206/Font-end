@@ -1,6 +1,0 @@
-
-Sleek CSS dropdown Nav
-
-This is a simple CSS Nav Menu. Hope it will be useful to you in your new Web Projects.
-
-For more help, kindly send Msg to vifeanyi33@gmail.com
