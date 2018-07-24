@@ -8,7 +8,6 @@ import {SearchResultComponent} from './search-result/search-result.component';
 import {YouTubeSearchComponent} from './you-tube-search/you-tube-search.component';
 import {YouTubeSearchInjectables} from './you-tube-search/you-tube-search-injectables.enum';
 import { SearchBoxComponentComponent } from './search-box-component/search-box-component.component';
-import { YouTubeSearchComponentComponent } from './you-tube-search-component/you-tube-search-component.component';
 
 @NgModule({
   declarations: [
@@ -16,8 +15,7 @@ import { YouTubeSearchComponentComponent } from './you-tube-search-component/you
     SimpleHttpComponent,
     SearchResultComponent,
     YouTubeSearchComponent,
-    SearchBoxComponentComponent,
-    YouTubeSearchComponentComponent
+    SearchBoxComponentComponent
   ],
   imports: [
     BrowserModule,

@@ -34,6 +34,9 @@ export class SearchBoxComponentComponent implements OnInit {
   @Output()
   results: EventEmitter<SearchResult[]> = new EventEmitter<SearchResult[]>();
 
+  /**
+   * ElementRef wrapper around a native element.
+   */
   constructor(private youtube: YouTubeSearchService,
               private el: ElementRef) {}
 

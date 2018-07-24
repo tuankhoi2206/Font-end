@@ -1,3 +1,23 @@
-<p>
-  you-tube-search works!
-</p>
+<div class="container">
+  <div class="page-header">
+    <h1>Youtube Search</h1>
+    <img
+      style="float:right"
+      *ngIf="loading"
+      src="../../assets/images/loading_icon.gif"/>
+  </div>
+  <div class="row">
+    <div class="input-group input-group-lg col-md-12">
+      <app-search-box-component
+        (loading)="loading = $event"
+        (results)="updateResult($event)">
+      </app-search-box-component>
+    </div>
+  </div>
+  <div class="row">
+    <app-search-result
+      *ngFor="let result of results"
+      [result]="result">
+    </app-search-result>
+  </div>
+</div>
