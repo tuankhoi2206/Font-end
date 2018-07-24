@@ -35,8 +35,7 @@ export class SearchBoxComponentComponent implements OnInit {
   results: EventEmitter<SearchResult[]> = new EventEmitter<SearchResult[]>();
 
   constructor(private youtube: YouTubeSearchService,
-              private el: ElementRef) {
-  }
+              private el: ElementRef) {}
 
   /**
    * This function will be help we initialize the component
