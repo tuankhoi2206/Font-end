@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Demo Scope in angular</title>
+</head>
+<body>
+<div class="container">
+  <div ng-controller="ParentController">
+    <h2>{{age}}</h2>
+    <div ng-controller="ChildController">
+      <h1>{{name}}</h1>
+      <h2>{{age}}</h2>
+      <h3>{{grade}}</h3>
+    </div>
+  </div>
+</div>
+<!--lib-->
+
+<script src="bower_components/lodash/index.js"></script>
+<!--<script src="bower_components/jquery/dist/jquery.js"></script>
+<script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
+<script src="bower_components/angular/angular.js"></script>
+<script src="bower_components/angular-route/angular-route.js"></script>
+<script src="bower_components/angular-sanitize/angular-sanitize.js"></script>
+<script src="bower_components/i18next/i18next.min.js"></script>
+<script src="bower_components/i18next-xhr-backend/i18nextXHRBackend.min.js"></script>
+<script src="bower_components/ng-i18next/dist/ng-i18next.min.js"></script>-->
+
+<script src="scripts/demo1/demo.module.js"></script>
+<script src="scripts/demo1/parent.controller.js"></script>
+<script src="scripts/demo1/child.controller.js"></script>
+<!--/-->
+</body>
+</html>

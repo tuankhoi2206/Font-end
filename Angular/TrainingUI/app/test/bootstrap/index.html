@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Bootstrap</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+  <!--<link rel="stylesheet" href="css/reset200802.css">-->
+  <!-- Optional theme -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
+        integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+          integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+          crossorigin="anonymous"></script>
+
+  <style>
+
+    @font-face {
+      font-family: Lato-Bold;
+      src: url('fonts/Lato-Bold.ttf') format('truetype');
+    }
+
+    @font-face {
+      font-family: Lato-Light;
+      src: url('fonts/Lato-Light.ttf') format('truetype');
+    }
+
+    @font-face {
+      font-family: Lato-Regular;
+      src: url('fonts/Lato-Regular.ttf') format('truetype');
+    }
+
+    @font-face {
+      font-family: Lato-Italic;
+      src: url('fonts/Lato-Italic.ttf') format('truetype');
+    }
+
+    body {
+      background-color: #0f0f0f;
+    }
+
+    .container {
+      padding-right: 0px;
+      padding-left: 0px;
+    }
+
+    .row {
+      margin: 0px;
+      padding: 0px;
+    }
+
+    .main-container {
+      background-color: white;
+      margin-top: 20px;
+    }
+
+    .header-top {
+      padding: 20px 30px 20px 30px;
+    }
+
+    .header-menu ul {
+      list-style-type: none;
+      float: right;
+    }
+
+    .header-menu ul li {
+      float: left;
+    }
+
+    #header-title {
+      background-image: url('images/headerbg.jpg');
+      text-align: center;
+      padding-top: 100px;
+      color: white;
+    }
+
+    .header-title span {
+      color: white;
+      font-size: 55px;
+    }
+
+    .header-title p {
+      padding: 25px;
+      font-size: 17px;
+    }
+
+    .header-title button {
+      padding: 10px;
+      background-color: #1bbc9b;
+      border-radius: 3px;
+      border: 0px;
+      font-size: 14px;
+    }
+
+    .header-title button:hover {
+      color: #0f0f0f;
+    }
+
+    .light {
+      font-family: Lato-Light;
+    }
+
+    .bold {
+      font-family: Lato-Bold;
+    }
+
+    .regular {
+      font-family: Lato-Regular;
+    }
+
+    .logo {
+      float: left;
+      padding: 0px;
+    }
+
+    .logo h1 {
+      margin: 0px;
+    }
+
+    .header-menu {
+      float: right;
+      padding: 0px;
+    }
+
+    h2 {
+      font-size: 30px;
+    }
+
+    .header-menu ul {
+      text-align: right;
+      padding: 15px;
+    }
+
+    nav ul li {
+      text-align: center;
+    }
+
+    nav ul li a {
+      padding: 15px;
+      color: #0f0f0f;
+    }
+
+    nav ul li a:hover {
+      background-color: #1bbc9b;
+      border-radius: 3px;
+      text-decoration: none;
+      color: white;
+    }
+
+    #portfolio {
+      background: #fff;
+      text-align: center;
+      padding: 50px 0px;
+    }
+
+    .portfolio span {
+      font-size: 30px;
+    }
+
+    .portfolio-title {
+      padding-top: 30px;
+      padding-bottom: 30px;
+    }
+
+    .portfolio-icon div {
+      text-align: center;
+    }
+
+    .portfolio-icon img {
+      margin: 20px;
+      height: 120px;
+      width: 120px;
+    }
+
+    .button-menu ul {
+      margin: 20px 0px 20px 0px;
+    }
+
+    .button-menu ul li {
+      background-color: #1bbc9b;
+      color: white;
+      padding: 10px;
+      margin: 2px;
+      font-size: 14px;
+      display: inline;
+    }
+
+    #about-us {
+      background: #1bbc9b;
+      text-align: center;
+      padding: 50px 10%;
+    }
+
+    .about-title {
+      padding-bottom: 45px;
+    }
+
+    .about-post {
+      padding: 10px 0px;
+    }
+
+    .about-text {
+      background: #fff;
+      width: 220px;
+      margin: 0 auto;
+      padding: 10px 5px;
+    }
+
+    .text-left
+    {
+      text-align: justify;
+    }
+    .about-text span {
+      font-size: 18px;
+    }
+
+    .about-text p {
+      font-size: 14px;
+    }
+
+    @media screen and (max-width : 768px) {
+      .collapse-li li{padding:10px 0px;float:none;}
+      .header-menu{padding:0px 5px 0px 0px;}
+      .logo{padding-left:5px;}
+      .navbar-header button {margin:10px 0px;}
+    }
+
+  </style>
+</head>
+<body>
+<div class="container main-container">
+  <header>
+    <div class="row header-top">
+      <div class="col-xs-4 col-sm-4 col-md-6 col-lg-6 logo">
+        <h1><a href=""><img src="images/logo.png"></a></h1>
+      </div><!--end logo-->
+
+      <nav class="col-xs-8 col-sm-8 col-md-5 navbar navbar-default header-menu" role="navigation">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div class="collapse navbar-collapse collapse-li" id="collapse">
+          <ul>
+            <li><a href="#">HOME</a></li>
+            <li><a href="#">PROFILO</a></li>
+            <li><a href="#">ABOUT</a></li>
+            <li><a href="#">CONTACT</a></li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+    <div class="header-title col-xs-12" id="header-title">
+      <span class="light">WE BUILD</span>
+      <span class="bold">BRAND</span>
+      <p class="regular">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua</p>
+      <button class="">LEARN MORE</button>
+      <p><a href=""><img src="images/btn.png"></a></p>
+    </div>
+  </header><!--end header-->
+  <section>
+    <div id="portfolio">
+      <div class="row portfolio-title">
+        <h1 class="regular">Portfolio</h1>
+        <p class="regular">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+      </div>
+      <div class="button-menu">
+        <ul>
+          <li>ALL</li>
+          <li>WEB DESIGN</li>
+          <li>GRAPHIC DESIGN</li>
+          <li>FLAT DESIGN</li>
+        </ul>
+      </div>
+      <div style="clear: both"></div>
+      <div class="row portfolio-icon">
+        <div class="col-sm-6 col-md-3">
+          <img src="images/img-1.png">
+        </div>
+        <div class="col-sm-6 col-md-3">
+          <img src="images/img-2.png">
+        </div>
+        <div class="col-sm-6 col-md-3">
+          <img src="images/img-3.png">
+        </div>
+        <div class="col-sm-6 col-md-3">
+          <img src="images/img-4.png">
+        </div>
+      </div>
+      <div class="row portfolio-icon">
+        <div class="col-sm-6 col-md-3">
+          <img src="images/img-5.png">
+        </div>
+        <div class="col-sm-6 col-md-3">
+          <img src="images/img-6.png">
+        </div>
+        <div class="col-sm-6 col-md-3">
+          <img src="images/img-2.png">
+        </div>
+        <div class="col-sm-6 col-md-3">
+          <img src="images/img-1.png">
+        </div>
+      </div>
+    </div><!--end portfolio-->
+    <div id="about-us">
+      <div class="row about-title">
+        <h2 class="regular white">About us</h2>
+        <p class="regular white">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+      </div>
+      <div class="row about-list-post">
+        <div class="col-xs-12 col-sm-12 col-md-4 about-post">
+          <div class="about-img"><img src="images/ava-1.jpg"></div>
+          <div class="about-text">
+            <span>Melannie Doe</span>
+            <p class="italic">Project Manager</p><br>
+            <p class="regular text-left">Ut wisi enim ad minim veniam,quis nostrud exerci tationullamcorper suscipit
+              lobortis nislut aliquip ex ea commodo consequat.</p>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-4 about-post">
+          <div class="about-img"><img src="images/ava-2.jpg"></div>
+          <div class="about-text">
+            <span>Melannie Doe</span>
+            <p class="italic">Project Manager</p><br>
+            <p class="regular text-left">Ut wisi enim ad minim veniam,quis nostrud exerci tationullamcorper suscipit
+              lobortis nislut aliquip ex ea commodo consequat.</p>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-4 about-post">
+          <div class="about-img"><img src="images/ava-3.jpg"></div>
+          <div class="about-text">
+            <span>Melannie Doe</span>
+            <p class="italic">Project Manager</p><br>
+            <p class="regular text-left">Ut wisi enim ad minim veniam,quis nostrud exerci tationullamcorper suscipit
+              lobortis nislut aliquip ex ea commodo consequat.</p>
+          </div>
+        </div>
+      </div>
+    </div><!-- end about us -->
+
+  </section>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,22 @@
+.main-container
+{
+  margin: auto 0px;
+}
+
+.main-container .select-custom
+{
+  background-color: gainsboro;
+  width: 200px;
+  height: 300px;
+  border: 1px solid gray;
+  overflow-x: scroll;
+  overflow-y: scroll;
+}
+
+.main-container .select-custom .select-item
+{
+  background-color: whitesmoke;
+  /*border-top: 1px solid dimgray;*/
+  border-bottom: 1px solid dimgray;
+  padding: 5px;
+}

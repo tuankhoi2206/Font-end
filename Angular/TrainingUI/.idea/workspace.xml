@@ -1,0 +1,1308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6670e7cb-77d8-4af6-b352-c15d96e72193" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/LearnCSS/TextRevealOnMouseHover.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/demo1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/scripts/demo1/child.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/scripts/demo1/demo.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/scripts/demo1/demo1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/scripts/demo1/parent.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/styles/test.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bodyFix.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/css/reset200802.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/fonts/Lato-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/fonts/Lato-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/fonts/Lato-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/fonts/Lato-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/images/ava-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/images/ava-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/images/ava-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/images/avartar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/images/avartar1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/images/avartar2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/images/btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/images/headerbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/images/img-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/images/img-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/images/img-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/images/img-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/images/img-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/images/img-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/images/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/images/tooltip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/bootstrap/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test/popup.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TrainingUI" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="415967" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="474747" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="D2D4D5" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="4E5579" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="demo.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/test/demo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="54" column="24" lean-forward="true" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VueJS-demo.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/test/VueJS/VueJS-demo.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="demo1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/demo1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14">
+              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="webServer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webServer.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo1.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/scripts/demo1/demo1.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="songServer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/songServer.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="display.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/test/display.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="popup.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/test/popup.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="tsconfig.json" />
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+        <option value="Stylus File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>showInfoTab</find>
+      <find>stageChangeChkBox</find>
+      <find>stageChangeHeaderChkBox</find>
+      <find>CommonService</find>
+      <find>setCheckBoxsModel()</find>
+      <find>setCheckBoxsModel</find>
+      <find>vm.configData</find>
+      <find>injectedVm.cache.currentPlaylist.songs</find>
+      <find>_.</find>
+      <find>injectedVm.cache.currentPlaylist</find>
+      <find>addPlaylist()</find>
+      <find>showPlaylistView</find>
+      <find>isCheckedHeaderChkbox</find>
+      <find>loadSon</find>
+      <find>PlaylistCtrl</find>
+      <find>switchEditMode</find>
+      <find>isInforTab</find>
+      <find>updatePlaylist</find>
+      <find>stageChangeSongHeaderCheckBox</find>
+      <find>stageChangeSongCheckBox</find>
+      <find>currentPlaylist</find>
+      <find>addSongOfPlaylist</find>
+      <find>showSongsView.searchText</find>
+      <find>.isCheckedHeaderChkbox</find>
+      <find>portfolio-icon</find>
+      <find>about-list-post</find>
+      <find>about-img</find>
+      <find>about-text</find>
+      <find>about-title</find>
+      <find>text-left</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;description&quot;</replace>
+      <replace>&quot;</replace>
+      <replace>vm.configDatatitleColumns</replace>
+      <replace>vm.configData.titleColumns</replace>
+      <replace>songOfPlayListCache</replace>
+      <replace>vm.isCheckedHeaderChkbox</replace>
+      <replace>vm.configData.isCheckedHeaderChkbox</replace>
+      <replace>vm.configData.disableCheckedAll</replace>
+      <replace>vm.configData.items</replace>
+      <replace>vm.configData.disableCheckedAll.status</replace>
+      <replace>configData.items</replace>
+      <replace>vm.configData.listCheckedChkBox</replace>
+      <replace>disableCheckedAll.status</replace>
+      <replace>isCheckedHeaderChkbox.status</replace>
+      <replace>copyOfSelectedPlaylist</replace>
+      <replace>commonConstant</replace>
+      <replace>44</replace>
+      <replace>MODE_SONG</replace>
+      <replace>promise</replace>
+      <replace>MODE_PLAYLIST</replace>
+      <replace>formatTableData</replace>
+      <replace>formatRowTableData</replace>
+      <replace>do</replace>
+      <replace>doDirectCreatePlaylist</replace>
+      <replace>injectedVm</replace>
+      <replace>'</replace>
+      <replace>stageChangeSongCheckBox</replace>
+      <replace>stageChangeSongHeaderCheckBox</replace>
+      <replace>commonService</replace>
+      <replace>editPlaylistView.currentPlaylist</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\AIA\TrainingUI\app</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/components/breadcrumbs/ovBreadcrumbsDirective.html" />
+        <option value="$PROJECT_DIR$/app/styles/styles.css" />
+        <option value="$PROJECT_DIR$/app/locales/vi/translation.json" />
+        <option value="$PROJECT_DIR$/app/locales/en/translation.json" />
+        <option value="$PROJECT_DIR$/app/styles/sidenav.css" />
+        <option value="$PROJECT_DIR$/app/scripts/app.js" />
+        <option value="$PROJECT_DIR$/app/components/breadcrumbs/ovBreadcrumbs.controller.js" />
+        <option value="$PROJECT_DIR$/.jshintrc" />
+        <option value="$PROJECT_DIR$/app/scripts/main-app/app.service.js" />
+        <option value="$PROJECT_DIR$/app/scripts/song/song.service.js" />
+        <option value="$PROJECT_DIR$/app/scripts/config-route.js" />
+        <option value="$PROJECT_DIR$/app/scripts/common/common.constant.js" />
+        <option value="$PROJECT_DIR$/app/scripts/playlist/playlists.html" />
+        <option value="$PROJECT_DIR$/app/scripts/song/addOrEditSongTemplate.html" />
+        <option value="$PROJECT_DIR$/app/scripts/playlist/playlist.create.decorator.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/scripts/playlist/playlistsEditInforTabTemplate.html" />
+        <option value="$PROJECT_DIR$/app/scripts/playlist/addPlaylist.html" />
+        <option value="$PROJECT_DIR$/app/scripts/common/common.service.js" />
+        <option value="$PROJECT_DIR$/app/scripts/playlist/playlist.service.js" />
+        <option value="$PROJECT_DIR$/app/scripts/playlist/playlists.edit.decorator.js" />
+        <option value="$PROJECT_DIR$/app/scripts/playlist/playlists.edit.songtab.decorator.js" />
+        <option value="$PROJECT_DIR$/app/scripts/playlist/playlists.create.decorator.js" />
+        <option value="$PROJECT_DIR$/app/scripts/playlist/playlists.edit.infortab.decorator.js" />
+        <option value="$PROJECT_DIR$/app/scripts/playlist/editPlaylist.html" />
+        <option value="$PROJECT_DIR$/app/scripts/song/songs.html" />
+        <option value="$PROJECT_DIR$/app/scripts/playlist/playlists.controller.js" />
+        <option value="$PROJECT_DIR$/app/components/new-table-view/ovTableView.css" />
+        <option value="$PROJECT_DIR$/app/components/new-table-view/action-column.html" />
+        <option value="$PROJECT_DIR$/app/components/new-table-view/dddd.js" />
+        <option value="$PROJECT_DIR$/app/test/hs.html" />
+        <option value="$PROJECT_DIR$/app/components/new-table-view/ovTableView.directive.js" />
+        <option value="$PROJECT_DIR$/app/scripts/playlist/playlists.view.decorator.js" />
+        <option value="$PROJECT_DIR$/app/components/new-table-view/ovTableViewDirective.html" />
+        <option value="$PROJECT_DIR$/app/components/table-view/ovTableView.directive.js" />
+        <option value="$PROJECT_DIR$/app/scripts/song/template/col1Template.html" />
+        <option value="$PROJECT_DIR$/app/components/table-view/defaultColTemplate.html" />
+        <option value="$PROJECT_DIR$/app/components/table-view/default-config/col1Template.html" />
+        <option value="$PROJECT_DIR$/app/components/new-table-view/ovTableView.controller.js" />
+        <option value="$PROJECT_DIR$/app/scripts/song/template/col1.html" />
+        <option value="$PROJECT_DIR$/app/components/table-view/ovTableView.controller.js" />
+        <option value="$PROJECT_DIR$/app/components/table-view/ovTableViewDirective.html" />
+        <option value="$PROJECT_DIR$/app/components/table-view/ovTableViewDirectiveTest.html" />
+        <option value="$PROJECT_DIR$/app/scripts/song/song.controller.js" />
+        <option value="$PROJECT_DIR$/app/test/bootstrap/index.html" />
+        <option value="$PROJECT_DIR$/app/test/display.html" />
+        <option value="$PROJECT_DIR$/app/LearnCSS/TextRevealOnMouseHover.html" />
+        <option value="$PROJECT_DIR$/app/styles/main.styl" />
+        <option value="$PROJECT_DIR$/app/demo1.html" />
+        <option value="$PROJECT_DIR$/app/styles/test.styl" />
+        <option value="$PROJECT_DIR$/app/test/popup.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <exe-path>$USER_HOME$/AppData/Roaming/npm/bower.cmd</exe-path>
+    <config-path>$PROJECT_DIR$/bower.json</config-path>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/app/bower_components/angular-animate/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/angular-cookies/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/angular-mocks/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/angular-resource/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/angular-route/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/angular-sanitize/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/angular-touch/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/angular/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash._baseassign/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash._basecopy/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash._basetostring/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash._basevalues/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash._bindcallback/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash._createassigner/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash._getnative/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash._isiterateecall/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash._isnative/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash._objecttypes/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash._reescape/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash._reevaluate/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash._reinterpolate/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash._root/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash.assign/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash.debounce/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash.escape/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash.isarguments/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash.isarray/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash.isequal/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash.isfunction/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash.isobject/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash.keys/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash.now/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash.pad/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash.padend/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash.padstart/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash.restparam/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash.template/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash.templatesettings/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/lodash/package.json" />
+      <path value="$PROJECT_DIR$/app/bower_components/ng-i18next/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1370" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CssInvalidPropertyValue</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="true" />
+      <showMembers ProjectPane="true" />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TrainingUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrainingUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TrainingUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrainingUI" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TrainingUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrainingUI" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TrainingUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrainingUI" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="demo1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TrainingUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrainingUI" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="main-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TrainingUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrainingUI" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TrainingUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrainingUI" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TrainingUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrainingUI" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TrainingUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrainingUI" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="SearchEverywhereHistoryKey" value="lodash/inde&#9;FILE&#9;file://D:/AIA/TrainingUI/app/bower_components/lodash/index.js&#10;INDE&#9;FILE&#9;file://D:/AIA/TrainingUI/app/index.html&#10;index&#9;FILE&#9;file://D:/AIA/TrainingUI/app/index.html&#10;app.js&#9;FILE&#9;file://D:/AIA/TrainingUI/app/scripts/app.js&#10;ng-i18next.js&#9;FILE&#9;file://D:/AIA/TrainingUI/app/bower_components/ng-i18next/dist/ng-i18next.js&#10;main&#9;FILE&#9;file://D:/AIA/TrainingUI/app/styles/main.styl&#10;bootstrap&#9;FILE&#9;file://D:/AIA/TrainingUI/app/bower_components/bootstrap/dist/css/bootstrap.min.css&#10;angular&#9;FILE&#9;file://D:/AIA/TrainingUI/bower_components/angular/angular.js&#10;bootstrap.js&#9;FILE&#9;file://D:/AIA/TrainingUI/bower_components/bootstrap/dist/js/bootstrap.js" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="editor.config.accepted" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="js-jscs-package" value="D:\AIA\TrainingUI\node_modules\jscs" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TrainingUI" />
+    <property name="list.type.of.created.stylesheet" value="Stylus" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.selected.package.jscs" value="D:\Git\Font-end\Angular\TrainingUI\node_modules\jscs" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.28277886" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Git\Font-end\Angular\TrainingUI\app\test\bootstrap" />
+      <recent name="D:\Git\Font-end\Angular\TrainingUI\app\test\bootstrap\images" />
+      <recent name="D:\AIA\TrainingUI\app\scripts\song\template" />
+      <recent name="D:\AIA\TrainingUI\app\components\new-table-view" />
+      <recent name="D:\AIA\TrainingUI\app\components\table-view" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\AIA\TrainingUI\app\components\table-view\default-config" />
+      <recent name="D:\AIA\TrainingUI\app\components\table-view" />
+      <recent name="D:\AIA\TrainingUI\app" />
+      <recent name="D:\AIA\TrainingUI\app\scripts\common" />
+      <recent name="D:\AIA\TrainingUI\app\scripts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="songs.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/TrainingUI/app/views/songPage/views/songs.html" />
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="TrainingUI" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.songs.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6670e7cb-77d8-4af6-b352-c15d96e72193" name="Default" comment="" />
+      <created>1487043505174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1487043505174</updated>
+      <workItem from="1487043511605" duration="64809000" />
+      <workItem from="1487308719076" duration="129936000" />
+      <workItem from="1487915035344" duration="286325000" />
+      <workItem from="1489139731236" duration="1233000" />
+      <workItem from="1489141855828" duration="3554000" />
+      <workItem from="1489383548014" duration="1744000" />
+      <workItem from="1489386478506" duration="188476000" />
+      <workItem from="1490155126690" duration="97082000" />
+      <workItem from="1490584543998" duration="22906000" />
+      <workItem from="1490670310625" duration="7648000" />
+      <workItem from="1490679597328" duration="129346000" />
+      <workItem from="1491236181456" duration="1673000" />
+      <workItem from="1492442556155" duration="269000" />
+      <workItem from="1492788290055" duration="33261000" />
+      <workItem from="1493306122069" duration="7766000" />
+      <workItem from="1493484161072" duration="983000" />
+      <workItem from="1493533073914" duration="2612000" />
+      <workItem from="1496491744799" duration="677000" />
+      <workItem from="1496495635070" duration="1479000" />
+      <workItem from="1496507197097" duration="1025000" />
+      <workItem from="1497066023106" duration="225000" />
+      <workItem from="1497066621898" duration="898000" />
+      <workItem from="1497067691716" duration="3890000" />
+      <workItem from="1497801448070" duration="41000" />
+      <workItem from="1497974568212" duration="480000" />
+      <workItem from="1498051975402" duration="1506000" />
+      <workItem from="1498054784083" duration="472000" />
+      <workItem from="1498230746509" duration="581000" />
+      <workItem from="1498283190790" duration="96000" />
+      <workItem from="1525540738424" duration="248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="991241000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="3" sideWeight="0.64026403" visible="true" weight="0.2777778" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5058565" side_tool="true" weight="0.2823344" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info id="npm" order="0" sideWeight="0.35973597" side_tool="true" visible="true" weight="0.2777778" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.17350158" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.4941435" weight="0.29296234" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.2344245" />
+      <window_info anchor="right" id="Designer" order="3" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Properties" order="4" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="4" sideWeight="0.49791667" weight="0.2254673" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Designer" order="5" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.17480999" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="TypeScript" order="8" />
+      <window_info anchor="bottom" id="Find" order="4" sideWeight="0.49791667" weight="0.2254673" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="5" />
+      <window_info anchor="right" id="Properties" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50208336" side_tool="true" weight="0.32946146" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="8" visible="true" weight="0.13034624" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info id="npm" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Structure" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.2344245" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="28" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/components/breadcrumbs/ovBreadcrumbs.directive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/table-view/default-config/col1Template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="61" selection-start-column="61" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/new-table-view/ovTableView.directive.js" />
+    <entry file="file://$PROJECT_DIR$/app/components/table-view/ovTableView.directive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/breadcrumbs/ovBreadcrumbs.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/breadcrumbs/ovBreadcrumbs.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/new-table-view/ovTableViewDirectiveTest.html" />
+    <entry file="file://$PROJECT_DIR$/app/scripts/song/template/col1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/table-view/ovTableView.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/table-view/ovTableViewDirective.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3689">
+          <caret line="225" column="10" selection-start-line="225" selection-start-column="10" selection-end-line="225" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/song/template/action-column.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/new-table-view/action-column.html" />
+    <entry file="file://$PROJECT_DIR$/app/components/new-table-view/ovTableView.controller.js" />
+    <entry file="file://$PROJECT_DIR$/app/components/table-view/ovTableViewDirectiveTest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/playlist/playlists.view.decorator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/playlist/playlists.edit.songtab.decorator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/playlist/playlists.edit.infortab.decorator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/table-view/defaultColTemplate.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/test/bootstrap/images/headerbg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/test/bodyFix.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/test/bootstrap/images/img-2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/test/bootstrap/images/img-5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/test/bootstrap/images/img-6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/test/bootstrap/images/img-4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/test/bootstrap/images/img-3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/test/bootstrap/images/img-1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/test/bootstrap/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/LearnCSS/TextRevealOnMouseHover.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/song/song.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/common/common.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="10" selection-start-line="65" selection-start-column="10" selection-end-line="65" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/song/song.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/sideBar.styl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/test.css" />
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/config-route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/searchBar.styl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/test.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/test/hs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/main.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/test/popup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/test/display.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/test/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="54" column="24" lean-forward="true" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/test/VueJS/VueJS-demo.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/demo1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/songServer.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webServer.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/demo1/demo1.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
