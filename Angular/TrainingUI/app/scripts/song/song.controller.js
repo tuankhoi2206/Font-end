@@ -7,10 +7,29 @@
         var vm = this;
         vm.cache = SongFactory.cache;
 
-        function init() {
+        function configStepper() {
+          vm.idstepper = 'id-stepper';
+          vm.sections = [
+            {
+              title: 'Step 1',
+              templateUrl: 'components/stepper/teamplate1.html'
+            },
+            {
+              title: 'Step 2',
+              templateUrl: 'components/stepper/teamplate2.html'
+            },
+            {
+              title: 'Step 3',
+              templateUrl: 'components/stepper/teamplate3.html'
+            }
+          ];
+        }
 
+        function init() {
+          console.log('init');
+          configStepper();
           vm.common = {
-            configBreadcrumb: {titles: ['app.common.home', 'app.common.song']},
+            configBreadcrumb: { titles: ['app.common.home', 'app.common.song'] },
             loadingState: true,
             isInputError: false,// used for check input value
             function: {
@@ -21,9 +40,9 @@
           /*************** SHOW SONG ***************/
           vm.showSongsView = {
             songs: [],
-            searchText: {text: ''},// set the default search/filter
-            isCheckedHeaderChkbox: {status: false},
-            isDisabledDeleteBtn: {status: true},
+            searchText: { text: '' },// set the default search/filter
+            isCheckedHeaderChkbox: { status: false },
+            isDisabledDeleteBtn: { status: true },
             function: {
               isShowMode: isShowMode,
               loadSongs: loadSongs,
@@ -79,10 +98,10 @@
           );
 
           vm.configDataSongTable.rowData.push(
-            {mapdata: 'id'},
-            {mapdata: 'title'},
-            {mapdata: 'artists'},
-            {mapdata: '', templateUrl: 'scripts/song/template/action-column.html'}
+            { mapdata: 'id' },
+            { mapdata: 'title' },
+            { mapdata: 'artists' },
+            { mapdata: '', templateUrl: 'scripts/song/template/action-column.html' }
           );
 
           vm.configFuncSongTable = {
@@ -167,10 +186,10 @@
             }, function (error) {
               console.log('error ', error);
             }).finally(
-            function () {
-              vm.loadingState = false;
-            }
-          );
+              function () {
+                vm.loadingState = false;
+              }
+            );
         }
 
         function restCaCheModelCreateOrApplyBtn() {
@@ -209,7 +228,7 @@
         }
 
         function clearSongModel() {
-          vm.cache.songModel = {id: '', title: '', artists: ''};
+          vm.cache.songModel = { id: '', title: '', artists: '' };
         }
 
         /*************** EDIT SONG *****************/
@@ -235,7 +254,7 @@
 
         /*************** REMOVE SONG *****************/
         function removeSongByListID(listCheckedChkBox) {
-          var songs = {id: listCheckedChkBox};
+          var songs = { id: listCheckedChkBox };
           CommonService.deleteData('api/song', angular.copy(songs)).then(function () {
             loadSongs();
           }, function (error) {
@@ -266,7 +285,7 @@
         }
 
         function removeSongById(index) {
-          var songs = {id: [vm.showSongsView.songs[index].id]};
+          var songs = { id: [vm.showSongsView.songs[index].id] };
           CommonService.deleteData('api/song', songs).then(function () {
             loadSongs();
             if (vm.showSongsView.songs.length === 0) {
@@ -291,4 +310,4 @@
       }
     ]);
 })
-();
+  ();

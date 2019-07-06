@@ -1,0 +1,23 @@
+/* @blue-primary: rgb(41,182,246);
+@blue-secondary: rgb(44,134,210);
+@grey-accent: rgb(130, 130, 130);
+@grey: rgb(236, 236, 236); */
+
+.stepper-panel {
+  padding: 20px;
+}
+
+.stepper-item .circle {
+        float: left;
+        color: rgb(236, 236, 236);
+        border-radius: 50%;
+}
+
+.stepper-item .circle:hover{
+    color: rgb(41,182,246)
+}
+   
+.stepper-item .left-line {
+      border-left: 1px;
+      color: rgb(236, 236, 236);
+}
