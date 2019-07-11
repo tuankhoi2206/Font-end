@@ -1,0 +1,13 @@
+<div id="{{idStepper}}" class="stepper-panel">
+  <div class="stepper-item" ng-repeat="section in sections" id="stepper-item-{{$index+1}}">
+    <div class="circle"
+         ng-click="switchStep(section, $index)">{{$index+1}}
+    </div>
+    <div class="left-line" ng-hide="$last"></div>
+    <h3>{{section.title}}</h3>
+    <div class="stepper-container" ng-hide="!selected($index)">
+      <div class="stepper-content"></div>
+      <button class="btn btn-primary">Continue</button>
+    </div>
+  </div>
+</div>

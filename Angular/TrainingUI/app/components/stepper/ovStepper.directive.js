@@ -2,47 +2,53 @@
  * Created by vtkhoi on 3/7/2017.
  */
 angular.module('songApp')
-  .directive('stepper', ['$compile','$timeout'], function ($compile, $timeout) {
+  .directive('stepper', ['$compile', '$timeout', '$document', function ($compile, $timeout, $document) {
     return {
       restrict: 'AE',
       scope: {
         idStepper: '@',
         sections: '='
       },
-      templateUrl:'components/stepper/ovStepper.teamplate.html',
-      controller: function ($scope, $compile) {
+      transclude: true,
+      templateUrl: 'components/stepper/ovStepper.template.html',
+      controller: function ($scope, $compile, $element) {
 
-        var selectedIndex = 0;
+        var selected = 0;
+        var STEPPER_ITEM_ID = '#stepper-item-';
+        var STEPPER_CONTENT = '.stepper-content';
+        var CIRCLE = '.circle';
 
-        console.log('I am here');
+        $scope.switchStep = function (section, nextStepIdx) {
+          var circle;
+          circle = STEPPER_ITEM_ID + selected + ' ' + CIRCLE;
 
-        // function switchStep(section, index) {
-        //   selectedIndex = index;
-        //   var idSteppItem = '.stepp-item-' + index;
-        //   var stepContent = $scope.idStepper + ' ' + idSteppItem;
-        //   var el = angular.element(stepContent);
-        //   removeActiveClass(idSteppItem);
+          var circles = $(circle);
+          var nextStep = $(circles[nextStepIdx]);
+          selected = nextStepIdx;
 
-        //   if (el) {
-        //     let elContent = $compile('<div ng-include="' + section.templateUrl + '"></div>')($scope);
-        //     $element.find(
-        //       '.stepp-item-' + (index + 1) + ' .step-content').append(el);
-        //   }
-        // }
+          circles.each(function (_, step) {
+            $(step).removeClass('active');
+          });
+          nextStep.addClass('active');
+        };
 
-        // function removeActiveClass(idSteppItem) {
-        //   var circle = idSteppItem + ' .circle';
-        //   $scope.sections.forEach(function (section) {
-        //     angular.element(circle).removeClass('active');
-        //   });
-        // }
+        $scope.selected = function (idx) {
+          return selected === idx;
+        };
+
+        $scope.compileSection = function (section, index) {
+          var elContent;
+          var template = angular.element('<div ng-include="\'' + section.templateUrl + '\'"></div>');
+          elContent = $compile(template)($scope);
+          $element.find(STEPPER_ITEM_ID + (index + 1) + ' ' + STEPPER_CONTENT).append(elContent);
+        };
       },
       link: function (scope, element, attrs) {
-        // $timeout(function () {
-        //   scope.sections.forEach(function (section, idx) {
-        //     scope.compileSection(section.directive, idx);
-        //   });
-        // }, 0);
+        $timeout(function () {
+          scope.sections.forEach(function (section, idx) {
+            scope.compileSection(section, idx);
+          });
+        }, 0);
       }
     };
-  });
+  }]);

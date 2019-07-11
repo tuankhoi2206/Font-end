@@ -12,15 +12,15 @@
           vm.sections = [
             {
               title: 'Step 1',
-              templateUrl: 'components/stepper/teamplate1.html'
+              templateUrl: 'components/stepper/template1.html'
             },
             {
               title: 'Step 2',
-              templateUrl: 'components/stepper/teamplate2.html'
+              templateUrl: 'components/stepper/template2.html'
             },
             {
               title: 'Step 3',
-              templateUrl: 'components/stepper/teamplate3.html'
+              templateUrl: 'components/stepper/template3.html'
             }
           ];
         }
